@@ -51,14 +51,11 @@
 
 ### 📫 Connect With Me
 
-<p>
-  <a href="[https://www.linkedin.com/in/sparshbirla/]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:sparshbirla1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sparshbirla/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparshbirla1@gmail.com)
+
 
 ---
 
