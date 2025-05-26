@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Sparsh 👋</h1>
+<h1 align="center">Hey there, I'm Sparsh Birla 👋</h1>
 <h3 align="center">Engineering student |  Web Dev  | AI/ML  </h3>
 
 ---
@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sparsh13b&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sparsh13b&theme=dracula" alt="activity graph" />
+  
 </p>
 
 ---
