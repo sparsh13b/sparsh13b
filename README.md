@@ -1,6 +1,9 @@
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <h1>👋 Hey there, I am Sparsh Birla</h1>
-</marquee>
+<h1 align="center">
+  <marquee behavior="alternate" direction="right" scrollamount="6">
+     Hey there, I am Sparsh Birla 👋
+  </marquee>
+</h1>
+
 
 <h3 align="center">Engineering student |  Web Dev  | AI/ML  </h3>
 
