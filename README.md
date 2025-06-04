@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-141b5d3b-6caf-410e-b327-6a8a2f86043e-v1.png?transparent=1&palette=1" alt="Main Bitmoji" width="160"/>
+</p>
+
+<p align="center">
+  <img src="https://FUN-BITMOJI-1-LINK" alt="Fun Bitmoji 1" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://FUN-BITMOJI-2-LINK" alt="Fun Bitmoji 2" width="100"/>
+</p>
+
+
+
+
+
+
+
+
+
 <h1 align="center">
   <marquee behavior="scroll" direction="right" scrollamount="6">
     👋 Hey there, I am Sparsh Birla
