@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-141b5d3b-6caf-410e-b327-6a8a2f86043e-v1.png?transparent=1&palette=1" alt="Main Bitmoji" width="160"/>
+  <img src="blob:https://web.whatsapp.com/176fb4ec-3d90-4e8a-a7a9-bbf653e26ed0" alt="Main Bitmoji" width="160"/>
 </p>
 
-<p align="center">
-  <img src="https://FUN-BITMOJI-1-LINK" alt="Fun Bitmoji 1" width="100"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://FUN-BITMOJI-2-LINK" alt="Fun Bitmoji 2" width="100"/>
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="blob:https://web.whatsapp.com/e8c140df-e679-4abe-8914-299783a4cdfe" width="100" style="transform: rotate(-15deg);" />
+  <img src="blob:https://web.whatsapp.com/6ef5b89c-5184-4ba6-9235-5475db430530" width="100" style="transform: rotate(15deg);" />
 </p>
 
 
