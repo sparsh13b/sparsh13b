@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="blob:https://web.whatsapp.com/176fb4ec-3d90-4e8a-a7a9-bbf653e26ed0" alt="Main Bitmoji" width="160"/>
+  <img src="https://web.whatsapp.com/176fb4ec-3d90-4e8a-a7a9-bbf653e26ed0" alt="Main Bitmoji" width="160"/>
 </p>
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="blob:https://web.whatsapp.com/e8c140df-e679-4abe-8914-299783a4cdfe" width="100" style="transform: rotate(-15deg);" />
-  <img src="blob:https://web.whatsapp.com/6ef5b89c-5184-4ba6-9235-5475db430530" width="100" style="transform: rotate(15deg);" />
+  <img src="https://web.whatsapp.com/e8c140df-e679-4abe-8914-299783a4cdfe" width="100" style="transform: rotate(-15deg);" />
+  <img src="https://web.whatsapp.com/6ef5b89c-5184-4ba6-9235-5475db430530" width="100" style="transform: rotate(15deg);" />
 </p>
 
 
