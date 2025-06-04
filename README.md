@@ -1,12 +1,12 @@
 <p align="center">
-  <span style="display: inline-block; transform: rotate(-15deg); margin-right: 20px;">
-    <img src="2.png" width="100"/>
+  <span style="display: inline-block; transform: rotate(-30deg); margin-right: 20px;">
+    <img src="2.png" width="150"/>
   </span>
   
-  <img src="1.png" alt="Main Bitmoji" width="160"/>
+  <img src="1.png" alt="Main Bitmoji" width="180"/>
   
-  <span style="display: inline-block; transform: rotate(15deg); margin-left: 20px;">
-    <img src="3.png" width="100"/>
+  <span style="display: inline-block; transform: rotate(30deg); margin-left: 20px;">
+    <img src="3.png" width="150"/>
   </span>
 </p>
 
